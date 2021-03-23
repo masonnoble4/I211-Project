@@ -11,8 +11,8 @@ class Database
     //define database parameters
     private $param = array(
         'host' => 'localhost',
-        'login' => 'phpuser',
-        'password' => 'phpuser',
+        'login' => '********',
+        'password' => '********',
         'database' => 'car_inventory_db',
         'tblCar' => 'cars',
         'tblCarRating' => 'car_ratings',
